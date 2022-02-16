@@ -1,0 +1,32 @@
+body {
+background-color: #00FFFF
+}
+h1.h1 {
+color: Blue;
+background: #ba89b6;
+color: #fff;
+text-align: center;
+font-size:33
+    }
+div.beispiel {
+color:Grey;
+font-size: 19
+}
+h2.h2{
+color:LightBlue;
+text-align: center;
+font-size:25}
+h1.ribbon {
+font-size: 25;
+position: relative;
+background: #ba89b6;
+color: #fff;
+text-align: center;
+}
+table.table{
+width:50%
+}
+form.button {
+color: #fff;
+text-align: center;
+}
